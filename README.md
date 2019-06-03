@@ -12,6 +12,7 @@ exit
 
 Update:
 ```
+stop.bat
 git pull
 ```
 
