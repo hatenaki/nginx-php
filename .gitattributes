@@ -1,0 +1,4 @@
+#vendored
+/nginx/* linguist-vendored
+/php/* linguist-vendored
+/php/php-respawn.bat linguist-vendored=false
