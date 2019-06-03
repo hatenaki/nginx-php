@@ -1,0 +1,14 @@
+#defaults
+/defaults/defaults.ini
+
+#nginx
+/nginx/conf/
+/nginx/logs/
+/nginx/temp/
+
+#php
+/php/conf.d/
+/php/php.ini
+
+#projects
+/projects/
