@@ -9,4 +9,4 @@ CD ..
 :stopped
 
 :: Stop php-cgi
-taskkill /f /IM php-cgi.exe 2>NUL >NUL
+taskkill /F /IM php-cgi.exe 2>NUL >NUL

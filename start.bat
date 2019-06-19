@@ -3,7 +3,7 @@
 :: Check defaults list, restore items if missing
 CALL init.bat
 
-:: Stop nginx
+:: Stop nginx and php-cgi
 CALL stop.bat
 
 :: Create $projects variable for nginx
